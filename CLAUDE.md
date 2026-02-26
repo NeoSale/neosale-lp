@@ -15,7 +15,7 @@ neosale-lp/
 ├── index-white.html     # Alternative white theme variant
 ├── nginx.conf           # Nginx configuration (gzip, caching, security headers)
 ├── Dockerfile           # Multi-stage Docker build for Nginx
-├── icone-azul.png       # Logo/icon asset (36x36 minimum)
+├── neosale-icon.png       # Logo/icon asset (36x36 minimum)
 └── CLAUDE.md            # This file
 ```
 
